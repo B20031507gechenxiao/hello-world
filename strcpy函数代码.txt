@@ -1,4 +1,5 @@
 //自己实现字符串拷贝函数
+char* StrCpy(char *scr)
 {
 //1、计算scr的长度len
 //2、用malloc申请长度为len+1的内存空间
